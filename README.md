@@ -70,6 +70,7 @@ git、gcc、vim、nasm、make、VSCode、virtualBox-6.1
 
 ```
 bcdedit /set hypervisorlaunchtype off
+bcdedit /set hypervisorlaunchtype auto
 ```
 
 
