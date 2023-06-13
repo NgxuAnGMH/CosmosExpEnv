@@ -58,9 +58,18 @@ git、gcc、vim、nasm、make、VSCode、virtualBox-6.1
 
 
 
+
+
+
 [“此平台不支持虚拟化的 amd-v/rvi”的解决方法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/614643382)。
 
 
 ![image](https://github.com/NgxuAnGMH/CosmosExpEnv/assets/109900456/a4920d90-7517-4177-8dfd-42827cad6796)
+
+
+
+```
+bcdedit /set hypervisorlaunchtype off
+```
 
 
